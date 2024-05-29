@@ -1,0 +1,52 @@
+-------------------------------------------------------------------------------
+Test set: com.testrunner.TestRunner
+-------------------------------------------------------------------------------
+Tests run: 7, Failures: 0, Errors: 4, Skipped: 0, Time elapsed: 47.752 s <<< FAILURE! - in com.testrunner.TestRunner
+User able to login with different username and passward #1(Check login functionality different set of creadentials)  Time elapsed: 5.617 s  <<< ERROR!
+io.cucumber.junit.UndefinedStepException: 
+The step 'user  click login button' is undefined.
+You can implement this step using the snippet(s) below:
+
+@When("user  click login button")
+public void user_click_login_button() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+
+
+User able to login with different username and passward #2(Check login functionality different set of creadentials)  Time elapsed: 5.799 s  <<< ERROR!
+io.cucumber.junit.UndefinedStepException: 
+The step 'user  click login button' is undefined.
+You can implement this step using the snippet(s) below:
+
+@When("user  click login button")
+public void user_click_login_button() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+
+
+User able to login with different username and passward #3(Check login functionality different set of creadentials)  Time elapsed: 4.837 s  <<< ERROR!
+io.cucumber.junit.UndefinedStepException: 
+The step 'user  click login button' is undefined.
+You can implement this step using the snippet(s) below:
+
+@When("user  click login button")
+public void user_click_login_button() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+
+
+User able to login with different username and passward #4(Check login functionality different set of creadentials)  Time elapsed: 4.56 s  <<< ERROR!
+io.cucumber.junit.UndefinedStepException: 
+The step 'user  click login button' is undefined.
+You can implement this step using the snippet(s) below:
+
+@When("user  click login button")
+public void user_click_login_button() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+
+
